@@ -1,0 +1,11 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "qapplication": "cpp",
+    "qmainwindow": "cpp",
+    "qchartview": "cpp",
+    "qtwidgets": "cpp",
+    "qbarset": "cpp",
+    "qbarseries": "cpp"
+  }
+}
